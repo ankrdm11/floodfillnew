@@ -1,0 +1,32 @@
+body{
+    max-width:1000px;
+    maegin:auto;
+    font-family:Roboto;
+    font-size: 16px;
+    color:white;
+    background-color:#1d2026;
+     background: url("img/w3.jpg");
+}
+h1{
+    color:yellow;
+    font:intro large-caps bolder 28px arial, sans-serif;
+}
+h2{
+    color: #a33b3b;
+}
+h3{    
+    color:yellow;
+    font:intro small-caps bolder 28px arial, sans-serif;
+}
+p{
+     font:intro small-caps bolder 15px arial, sans-serif;
+}
+a{
+    color:green;
+}
+ul{
+     font:intro small-caps bolder 15px arial, sans-serif;
+}
+pre{
+    background-color:graytext;
+}
